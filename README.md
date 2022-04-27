@@ -1,4 +1,4 @@
-# C482-Project-Java-
+# C482-Project-Java
 This project is for C482 at WGU
 
 # Overview
